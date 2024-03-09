@@ -1,4 +1,4 @@
-# BerylliumOS: Reviving the Cub Linux Legacy
+# ![](https://github.com/BeryliumOSLinux/OSReleases/blob/main/BeryliumOSLogo_small.png) BerylliumOS: Reviving the Cub Linux Legacy
 
 BerylliumOS is a free and open-source operating system built upon the foundations of the beloved Cub Linux project. It aims to breathe new life into the Cub Linux philosophy, offering a lightweight, user-friendly, and customizable desktop experience for modern users.
 
